@@ -9,6 +9,7 @@ This is the steps to install Ubuntu with IOS USB.
    1. (D):400GB
 
 ## Bios
+* 上網查各廠牌進入Bios系統的鍵
 * 由 IOS USB 開機
 
 ## 安裝畫面
