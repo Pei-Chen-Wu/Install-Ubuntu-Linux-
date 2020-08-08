@@ -19,7 +19,7 @@ This is the steps to install Ubuntu with IOS USB.
 
 2. 準備安裝兩個都按
 
-![image](3.png)
+![image](https://github.com/Pei-Chen-Wu/Install-Ubuntu-Linux-/blob/master/3.PNG)
 
 3. 安裝類型選其他
 
