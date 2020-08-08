@@ -3,6 +3,8 @@ This is the steps to install Ubuntu with IOS USB.
 
 ## windows
 * 磁碟管理(分割硬碟):
+
+![image](1.png)
    1. (C):200GB 
    1. (D):400GB
 
