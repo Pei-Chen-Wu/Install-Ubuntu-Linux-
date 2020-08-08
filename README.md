@@ -14,8 +14,19 @@ This is the steps to install Ubuntu with IOS USB.
 
 ## 安裝畫面
 1. 選擇語言
-1. 準備安裝兩個都按
-1. 安裝類型選其他(ntfs是windows , ext4是linux)
+
+![image](2.png)
+
+2. 準備安裝兩個都按
+
+![image](3.png)
+
+3. 安裝類型選其他
+
+![image](4.png)
+4. 分割區規劃(ntfs是windows , ext4是linux)，按照下圖紅框所選
+
+![image](5.png) 
   * 掛載點 /:50GB
   * 用途(置換空間):100GB
   * /boot:1GB 
